@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @roberttmighty
+- 👀 I’m interested in ...  Python, Bash, Powershell
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Nothing at this time still learning
